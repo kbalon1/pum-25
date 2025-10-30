@@ -25,19 +25,16 @@ def test_median(foo):
 def test_euler(foo):
 
     test_dict = {
-        0: 0,
-        1: 1,
-        4: 2.6666666667,
-        6: 2.7166666667,
-        10: 2.7182815256,
-        15: 2.7182818285
+        0: 1,
+        1: 2,
+        4: 2.7083333333,
+        6: 2.7180555556,
+        10: 2.7182818011,
+        100: 2.7182818285
     }
-
-    if round(foo(), 10) != 2.7182815256:
-        raise AssertionError(f'Expected 2.7182815256, but got {foo()} when no argument is passed')
 
     for key, value in test_dict.items():
         if round(foo(key), 10) != value:
-            raise AssertionError(f'Expected {value}, but got {foo(key)} for {key} terms')
+            raise AssertionError(f'Expected {value}, but got {foo(key)} for n = {key}')
 
     print('Seems OK!')

@@ -24,25 +24,25 @@
 * ...
 
 ## Course info
-During the semester you will have to complete a series of seven laboratory sessions. 
+During the semester you will have to complete a series of six laboratory sessions. 
 The course material is divided into notebooks, each dedicated to a specific topic.
 
 A notebook is divided into exercises, each of which is worth a certain number of points. The maximum number of points you
-can earn at each laboratory session is 10, making it a total of 70 points from the whole course.
+can earn at each laboratory session is 10, making it a total of 60 points from the whole course.
 At the end of the semester, the points from all notebooks will be summed up and converted into the final grade according 
 to the following scale:
 
-* 35 - 41 points: 3.0
-* 42 - 48 points: 3.5
-* 49 - 55 points: 4.0
-* 56 - 62 points: 4.5
-* 63 - 70 points: 5.0
+* 30 - 36 points: 3.0
+* 37 - 42 points: 3.5
+* 43 - 48 points: 4.0
+* 49 - 54 points: 4.5
+* 55 - 60 points: 5.0
 
 The exercises preceded by a star (*) are not graded, but they introduce some fun concepts or more advanced topics. 
 Solving them can sometimes earn you additional points. The information about the extra points will be included 
 in the exercise description or announced during the laboratory session.
 
-You need to get at least 35 points to pass the course. During each laboratory session, you can earn additional points
+You need to get at least 30 points to pass the course. During each laboratory session, you can earn additional points
 by solving extracurricular problems, actively participating in the class, and contributing to the course in other ways.
 
 The course is taught in Polish, but the course materials are in English so that you can get accustomed to the ML-related

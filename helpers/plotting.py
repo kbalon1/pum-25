@@ -22,7 +22,7 @@ def plot_vectors(vector, rotated_vector):
 def plot_hist(sums_list):
     sns.set_style("white")
     sns.set_context("talk")
-    sns.histplot(sums_list, kde=True, bins=12)
+    sns.histplot(sums_list, kde=True, bins=6, kde_kws={'bw_adjust': 1}, color='purple')
     plt.ylabel("")
     plt.yticks([])
     sns.despine(left=True)
