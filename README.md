@@ -21,7 +21,8 @@
 
 ## Table of contents
 * Lab 1 - Python basics. Classes and objects.
-* ...
+* Lab 2 - Linear algebra in NumPy. Linear regression.
+* ... (COMING SOON)
 
 ## Course info
 During the semester you will have to complete a series of six laboratory sessions. 
