@@ -38,9 +38,9 @@ def plot_decision_boundary(clf, X, y):
     Z = clf.predict(np.c_[xx.ravel(), yy.ravel()])
     Z = Z.reshape(xx.shape)
 
-    if type(X) == pd.DataFrame:
+    if isinstance(X, pd.DataFrame):
         X = X.values
-    if type(y) == pd.Series:
+    if isinstance(y, pd.Series):
         y = y.values
 
     x1 = X[:, 0]

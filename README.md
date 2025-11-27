@@ -22,6 +22,7 @@
 ## Table of contents
 * Lab 1 - Python basics. Classes and objects.
 * Lab 2 - Linear algebra in NumPy. Linear regression.
+* Lab 3 - Binary classification. Building a classifier model with `scikit-learn`.
 * ... (COMING SOON)
 
 ## Course info
