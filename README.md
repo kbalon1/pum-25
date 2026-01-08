@@ -23,6 +23,8 @@
 * Lab 1 - Python basics. Classes and objects.
 * Lab 2 - Linear algebra in NumPy. Linear regression.
 * Lab 3 - Binary classification. Building a classifier model with `scikit-learn`.
+* Lab 4 - Data preprocessing. Building a regression model. Coding a simple app in Streamlit.
+* Lab 5 - Implementing a simple perceptron. Introduction to neural networks with PyTorch.
 * ... (COMING SOON)
 
 ## Course info
